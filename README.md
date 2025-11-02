@@ -20,7 +20,7 @@ pip install vibration-analysis
 
 ### From Source
 ```bash
-git clone https://github.com/yourusername/vibration-analysis.git
+git clone https://github.com/gokulbk01/vibration-analysis.git
 cd vibration-analysis
 pip install -e .
 ```
@@ -224,7 +224,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For issues, questions, or contributions, please visit:
-https://github.com/yourusername/vibration-analysis
+https://github.com/gokulbk01/vibration-analysis
 
 ## Changelog
 
