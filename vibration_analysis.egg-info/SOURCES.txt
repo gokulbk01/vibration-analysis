@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+tests/test_preprocessor.py
+vibration_analysis/__init__.py
+vibration_analysis/preprocessor.py
+vibration_analysis.egg-info/PKG-INFO
+vibration_analysis.egg-info/SOURCES.txt
+vibration_analysis.egg-info/dependency_links.txt
+vibration_analysis.egg-info/requires.txt
+vibration_analysis.egg-info/top_level.txt
